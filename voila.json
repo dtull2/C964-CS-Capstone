@@ -1,0 +1,6 @@
+{
+  "voila": {
+    "template": "default",
+    "strip_sources": true
+  }
+}
